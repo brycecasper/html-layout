@@ -1,0 +1,69 @@
+body {
+    padding: 20px;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 25vh;
+    padding: 0;
+    border: 5px solid black;
+    margin: 0;
+}
+
+.purple {
+    width: 30px;
+    height: 110px;
+    padding: 0;
+    background-color: purple;
+    float: left;
+    margin: 40px 10px 5px 5px;
+}
+
+.green {
+    width: 350px;
+    height: 140px;
+    padding: 0;
+    background-color: green;
+    float: left;
+    margin: 10px 30px 10px 10px;
+}
+
+.blue {
+    width: 130px;
+    height: 130px;
+    padding: 0;
+    border: 5px solid blue;
+    float: left;
+    border-radius: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+
+main {
+    width: 100%;
+    height: 30vh;
+    border: 5px dotted black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mainbox {
+    width: auto;
+    height: 20vh;
+    background-color: darkgoldenrod;
+    box-shadow: 10px 10px 5px dimgrey;
+    margin: 30px;
+}
+
+footer {
+    width: 50%;
+    height: 25vh;
+    background-color: gainsboro;
+    box-shadow: 5px 5px 5px grey;
+    text-align: center;
+    color: purple;
+    letter-spacing: 8px;
+    padding: 20px;
+    margin: auto;
+}

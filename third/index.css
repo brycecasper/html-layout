@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+    background-color: grey;
+}
+
+.bluesquare {
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    width: 100%;
+    height: 200px;
+    padding: 50px;
+    margin: auto;
+    text-align: left;
+}
+
+.blue1 {
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+}
+
+.blue2 {
+    width: 100%;
+    height: 80px;
+    background-color: skyblue;
+}
+
+.yellow1 {
+    width: 100%;
+    height: 80px;
+    background-color: yellowgreen;
+}
+
+.yellow2 {
+    width: 100%;
+    height: 80px;
+    background-color: yellow;
+}
